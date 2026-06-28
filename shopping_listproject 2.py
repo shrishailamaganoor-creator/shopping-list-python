@@ -11,7 +11,7 @@ while True:
              break
     else:
         print("please enter yes or no")
-    
+#Representing the list at the end    
 print('Your shopping list would be')
 count= 1
 for item in shopping_list:
