@@ -17,3 +17,4 @@ count= 1
 for item in shopping_list:
     print(count,".",item)
     count+=1
+print("thank you") 
